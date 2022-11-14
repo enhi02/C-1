@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\bin\Debug\bai5.exe.config
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\bin\Debug\bai5.exe
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\bin\Debug\bai5.pdb
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\obj\Debug\bai5.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\obj\Debug\bai5.exe
+D:\SysFolder\Desktop\NET101-C\file\lab1\bai5\obj\Debug\bai5.pdb

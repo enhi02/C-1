@@ -1,0 +1,6 @@
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\bin\Debug\bai2va3.exe.config
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\bin\Debug\bai2va3.exe
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\bin\Debug\bai2va3.pdb
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\obj\Debug\bai2va3.csproj.CoreCompileInputs.cache
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\obj\Debug\bai2va3.exe
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai2va3\obj\Debug\bai2va3.pdb

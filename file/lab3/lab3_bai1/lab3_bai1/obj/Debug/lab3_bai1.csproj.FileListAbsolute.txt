@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\bin\Debug\lab3_bai1.exe.config
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\bin\Debug\lab3_bai1.exe
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\bin\Debug\lab3_bai1.pdb
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\obj\Debug\lab3_bai1.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\obj\Debug\lab3_bai1.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\obj\Debug\lab3_bai1.exe
+D:\SysFolder\Desktop\NET101-C\file\lab3\lab3_bai1\lab3_bai1\obj\Debug\lab3_bai1.pdb

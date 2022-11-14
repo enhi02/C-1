@@ -1,0 +1,2 @@
+D:\SysFolder\Downloads\lab4\bai5 nang cao\obj\Debug\bai5 nang cao.csprojAssemblyReference.cache
+D:\SysFolder\Downloads\lab4\bai5 nang cao\obj\Debug\bai5 nang cao.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\bin\Debug\NET1Slide2.exe.config
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\bin\Debug\NET1Slide2.exe
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\bin\Debug\NET1Slide2.pdb
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\obj\Debug\NET1Slide2A.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\obj\Debug\NET1Slide2A.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\obj\Debug\NET1Slide2.exe
+D:\SysFolder\Desktop\NET1Slide2\NET1Slide2\obj\Debug\NET1Slide2.pdb

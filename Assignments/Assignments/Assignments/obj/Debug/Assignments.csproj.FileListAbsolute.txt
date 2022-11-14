@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\bin\Debug\Assignments.exe.config
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\bin\Debug\Assignments.exe
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\bin\Debug\Assignments.pdb
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\obj\Debug\Assignments.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\obj\Debug\Assignments.exe
+D:\SysFolder\Desktop\NET101-C\Assignments\Assignments\Assignments\obj\Debug\Assignments.pdb

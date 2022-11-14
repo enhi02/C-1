@@ -1,0 +1,14 @@
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\bin\Debug\Demo3.exe.config
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\bin\Debug\Demo3.exe
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\bin\Debug\Demo3.pdb
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\obj\Debug\Demo3.exe
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide8\DemoSlide8\Demo3\obj\Debug\Demo3.pdb
+D:\SysFolder\Desktop\DemoSlide8\Demo3\bin\Debug\Demo3.exe.config
+D:\SysFolder\Desktop\DemoSlide8\Demo3\bin\Debug\Demo3.exe
+D:\SysFolder\Desktop\DemoSlide8\Demo3\bin\Debug\Demo3.pdb
+D:\SysFolder\Desktop\DemoSlide8\Demo3\obj\Debug\Demo3.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\DemoSlide8\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\DemoSlide8\Demo3\obj\Debug\Demo3.exe
+D:\SysFolder\Desktop\DemoSlide8\Demo3\obj\Debug\Demo3.pdb

@@ -1,0 +1,14 @@
+D:\danh-kun\C#1\assingment\assigment\assigment\bin\Debug\assigment.exe.config
+D:\danh-kun\C#1\assingment\assigment\assigment\bin\Debug\assigment.exe
+D:\danh-kun\C#1\assingment\assigment\assigment\bin\Debug\assigment.pdb
+D:\danh-kun\C#1\assingment\assigment\assigment\obj\Debug\assigment.csprojAssemblyReference.cache
+D:\danh-kun\C#1\assingment\assigment\assigment\obj\Debug\assigment.csproj.CoreCompileInputs.cache
+D:\danh-kun\C#1\assingment\assigment\assigment\obj\Debug\assigment.exe
+D:\danh-kun\C#1\assingment\assigment\assigment\obj\Debug\assigment.pdb
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\bin\Debug\assigment.exe.config
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\bin\Debug\assigment.exe
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\bin\Debug\assigment.pdb
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\obj\Debug\assigment.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\obj\Debug\assigment.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\obj\Debug\assigment.exe
+D:\SysFolder\Desktop\NET101-C\Assignments\assigment\assigment\obj\Debug\assigment.pdb

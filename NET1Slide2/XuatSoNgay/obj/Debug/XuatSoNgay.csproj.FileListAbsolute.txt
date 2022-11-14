@@ -1,0 +1,14 @@
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.exe.config
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.exe
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.pdb
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.csprojAssemblyReference.cache
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.csproj.CoreCompileInputs.cache
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.exe
+D:\NET101-LapTrinhCSharp1\Demo\Slides\Slide2\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.pdb
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.exe.config
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.exe
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\bin\Debug\XuatSoNgay.pdb
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.exe
+D:\SysFolder\Desktop\NET1Slide2\XuatSoNgay\obj\Debug\XuatSoNgay.pdb

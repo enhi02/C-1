@@ -1,0 +1,14 @@
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\bin\Debug\bai4.exe.config
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\bin\Debug\bai4.exe
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\bin\Debug\bai4.pdb
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\obj\Debug\bai4.csprojAssemblyReference.cache
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\obj\Debug\bai4.exe
+E:\Bài tập\Lap trinh\School\C#\C#1\lab5\bai4\obj\Debug\bai4.pdb
+D:\SysFolder\Desktop\lab5\bai4\bin\Debug\bai4.exe.config
+D:\SysFolder\Desktop\lab5\bai4\bin\Debug\bai4.exe
+D:\SysFolder\Desktop\lab5\bai4\bin\Debug\bai4.pdb
+D:\SysFolder\Desktop\lab5\bai4\obj\Debug\bai4.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\lab5\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\lab5\bai4\obj\Debug\bai4.exe
+D:\SysFolder\Desktop\lab5\bai4\obj\Debug\bai4.pdb

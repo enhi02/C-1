@@ -1,0 +1,13 @@
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\SysFolder\Desktop\NET101-C\file\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache

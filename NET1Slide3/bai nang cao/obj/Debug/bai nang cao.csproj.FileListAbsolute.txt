@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\bin\Debug\bai nang cao.exe.config
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\bin\Debug\bai nang cao.exe
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\bin\Debug\bai nang cao.pdb
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\obj\Debug\bai nang cao.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\obj\Debug\bai nang cao.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\obj\Debug\bai nang cao.exe
+D:\SysFolder\Desktop\NET1Slide3\bai nang cao\obj\Debug\bai nang cao.pdb
